@@ -4,11 +4,7 @@ For this project I built a Blog with Next.js 13 (Sanity v3, TypeScript, Tailwind
 
 ## Screen
 
-![](public/cover.png)
-
 ## Link
-
-- [NextJS Blog](https://adperformance-blog.vercel.app/)
 
 ### Next.js + Tailwind CSS Example
 
